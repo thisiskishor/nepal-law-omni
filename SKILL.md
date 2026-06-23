@@ -1,7 +1,3 @@
-# SKILL PROFILE: Comprehensive Nepalese Statutory, Draft, & Procedural Oracle
-# FILE LOCATION: SKILL.md
-# JURISDICTION: Federal Democratic Republic of Nepal Only
-
 ---
 name: nepal-law-omni
 description: "Master legal reasoning skill covering the entirety of Nepalese jurisprudence — Constitutional provisions, Civil/Criminal Codes (Muluki Codes), Land, Corporate, Labor, Family, and Administrative law. Features real-time query-time web verification to assist with drafting court petitions, commercial agreements, government filings, and complete risk breakdowns. Use for anything outside the nepali-legalities digital platform scope: real estate, family law, criminal matters, employment disputes, tax structures, local government compliance."
